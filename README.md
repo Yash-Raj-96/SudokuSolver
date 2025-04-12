@@ -77,7 +77,7 @@ SudokuSolver/
 
 ## 👨‍💻 Author
 
-Made with ❤️ by **Yash Raj**[GitHub](https://github.com/Yash-Raj-96)
+Made with ❤️ by [**Yash Raj**](https://github.com/Yash-Raj-96)
 
 ---
 
